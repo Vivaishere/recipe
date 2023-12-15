@@ -12,4 +12,4 @@ line 2 changed remotely
 last line changed locally
 ### This is a REMOTE change :O
 
-![recipe.jpg](https://github.com/Vivaishere/recipe.git/recipe.jpg)
+![recipe.jpg](https://github.com/Vivaishere/recipe.git/recipe.jpg?raw=true)
