@@ -1,9 +1,9 @@
 # Level 1 header
 ### Level 3 header
 
-1. Ordered list item 1
-2. Ordered list item 2
-3. Ordered list item 3
+1. Ordered list __item 1__
+2. Ordered list __item 2__
+3. Ordered list __item 3__
 
 ### This is a LOCAL change :)
 # recipe
